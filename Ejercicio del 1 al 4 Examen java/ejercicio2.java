@@ -16,9 +16,9 @@ public class ejercicio2 {
 			}
 			if(n<22||m<22) {
 			if(n<m) {
-				System.out.println(m);}
+				System.out.println(n);}
 			if(m<n) {
-				System.out.println(n);
+				System.out.println(m);
 			}
 		
 			}
